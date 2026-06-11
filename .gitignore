@@ -1,0 +1,30 @@
+# Flutter
+.dart_tool/
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+*.g.dart
+*.freezed.dart
+*.lock
+
+# Dependencies
+pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/release/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
